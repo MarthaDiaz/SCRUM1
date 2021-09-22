@@ -1,6 +1,7 @@
 .formsesion{
 	margin-top: 10%;
 	align-content: center;
+	/* text-align alinea horizontalmente.*/
 	text-align: center;
 }
 .formsesion .title{
@@ -10,7 +11,8 @@
 .verDatos{
 	text-align: center;
 }
-
-.paraffo{
+.alinear{
 	
+	/* text-align alinea horizontalmente.*/
+	text-align: center;
 }
